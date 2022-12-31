@@ -1,0 +1,60 @@
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+/*  INICIO HEADER */
+/*  estilos header */
+#navegacion-grilla{
+    display: flex;
+    gap: .8rem;
+}
+
+.logo{
+    @include sizes(13rem, 5rem);
+}
+
+.funcionesHeader{
+    gap: 1rem;
+}
+
+.nombreEmpresa{
+    color: $fuente-oscura;
+}
+
+#navbarNavAltMarkup div a:hover{
+    font-size: 1.5rem;
+    transition: .5s ease-in-out all;
+}
+
+/* queries header */
+@media screen and (max-width: $pantalla-grande){
+    .funcionesHeader{
+        flex-direction: row;
+        order: -1;
+        margin-left: 0 !important;
+    }
+}
+
+@media screen and (max-width: $pantalla-mediana){
+    #header-grilla{
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 520px){
+    .iconosAcciones{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        @include sizes(25px, 25px);
+    }
+
+    .logo{
+        @include sizes(10rem, 4.5rem);
+    }
+}
+
+@media screen and (max-width: 399px){
+    #navegacion-grilla{
+        flex-direction: column;
+    }
+}
+/* FIN HEADER */

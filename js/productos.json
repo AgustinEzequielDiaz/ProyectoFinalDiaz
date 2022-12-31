@@ -1,0 +1,1400 @@
+{
+    "productos": [
+        {
+            "id": "MLA918281163",
+            "title": "Pillow Top Desmontable Multiflex 140 X 190 Cubre Colchón",
+            "condition": "new",
+            "thumbnail_id": "966476-MLA45737273043_042021",
+            "catalog_product_id": null,
+            "listing_type_id": "gold_special",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-918281163-pillow-top-desmontable-multiflex-140-x-190-cubre-colchon-_JM",
+            "buying_mode": "buy_it_now",
+            "site_id": "MLA",
+            "category_id": "MLA30064",
+            "domain_id": "MLA-MATTRESS_COVERS",
+            "thumbnail": "http://http2.mlstatic.com/D_966476-MLA45737273043_042021-I.jpg",
+            "currency_id": "ARS",
+            "order_backend": 1,
+            "price": 12124,
+            "original_price": 19078.8,
+            "sale_price": null,
+            "sold_quantity": 500,
+            "available_quantity": 349,
+            "official_store_id": 3001,
+            "use_thumbnail_id": true,
+            "accepts_mercadopago": true,
+            "tags": [
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "deal_of_the_day",
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible",
+                "best_seller_candidate",
+                "shipping_guaranteed"
+            ],
+            "variation_filters": [
+                "COLOR"
+            ],
+            "shipping": {
+                "logistic_type": "xd_drop_off",
+                "mode": "me2",
+                "store_pick_up": false,
+                "free_shipping": true,
+                "tags": [
+                    "self_service_out",
+                    "mandatory_free_shipping"
+                ],
+                "promise": null
+            },
+            "stop_time": "2041-04-23T04:00:00.000Z",
+            "seller": {
+                "id": 145018220,
+                "nickname": "COLCHONES MULTIFLEX",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "registration_date": "2013-09-01T17:46:48.000-04:00",
+                "tags": [
+                    "brand",
+                    "large_seller",
+                    "eshop",
+                    "mshops",
+                    "credits_profile",
+                    "credits_priority_4",
+                    "messages_as_seller"
+                ],
+                "car_dealer_logo": "",
+                "permalink": "http://perfil.mercadolibre.com.ar/COLCHONES+MULTIFLEX",
+                "seller_reputation": {
+                    "level_id": "5_green",
+                    "power_seller_status": "platinum",
+                    "transactions": {
+                        "canceled": 1596,
+                        "completed": 31969,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.02,
+                            "neutral": 0.03,
+                            "positive": 0.95
+                        },
+                        "total": 33565
+                    },
+                    "metrics": {
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 4338
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0052,
+                            "value": 24
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0153,
+                            "value": 58
+                        },
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 1
+                        }
+                    }
+                },
+                "eshop": {
+                    "eshop_id": 156487,
+                    "seller": 145018220,
+                    "nick_name": "COLCHONES MULTIFLEX",
+                    "eshop_status_id": 1,
+                    "site_id": "MLA",
+                    "eshop_experience": 0,
+                    "eshop_rubro": null,
+                    "eshop_locations": [],
+                    "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/145018220ve15a7e.png"
+                }
+            },
+            "seller_address": {
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "id": null,
+                "latitude": null,
+                "longitude": null,
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": null,
+                    "name": "Pqe Patricios"
+                }
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": null,
+                "city_name": "Pqe Patricios"
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "7817210",
+                    "value_name": "Multiflex",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "7817210",
+                            "name": "Multiflex",
+                            "struct": null,
+                            "source": 4060709329251625
+                        }
+                    ],
+                    "source": 4060709329251625,
+                    "value_type": "string"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "source": 2860837171021627,
+                    "value_type": "list"
+                },
+                {
+                    "id": "LENGTH",
+                    "name": "Largo",
+                    "value_id": null,
+                    "value_name": "190 cm",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": {
+                        "number": 190,
+                        "unit": "cm"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "190 cm",
+                            "struct": {
+                                "number": 190,
+                                "unit": "cm"
+                            },
+                            "source": 4060709329251625
+                        }
+                    ],
+                    "source": 4060709329251625,
+                    "value_type": "number_unit"
+                },
+                {
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "CubreColchon",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "CubreColchon",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "source": 2860837171021627,
+                    "value_type": "string"
+                }
+            ],
+            "prices": {
+                "id": "MLA918281163",
+                "prices": [
+                    {
+                        "id": "321",
+                        "type": "standard",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-07-04T15:02:41Z",
+                        "amount": 19078.8,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "regular_amount": null,
+                        "metadata": {}
+                    },
+                    {
+                        "id": "892",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-31T03:20:43Z",
+                        "amount": 13299,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-12-29T03:00:00Z",
+                            "end_time": "2023-01-07T03:00:00Z"
+                        },
+                        "regular_amount": 19078.8,
+                        "metadata": {
+                            "campaign_id": "MLA25116",
+                            "promotion_id": "OFFER-MLA918281163-657262485",
+                            "promotion_type": "campaign"
+                        }
+                    },
+                    {
+                        "id": "893",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-31T03:20:43Z",
+                        "amount": 13199,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-02-08T13:00:00Z",
+                            "end_time": "2023-01-01T02:59:00Z"
+                        },
+                        "regular_amount": 19079,
+                        "metadata": {
+                            "campaign_id": "MLA8713",
+                            "promotion_id": "OFFER-MLA918281163-476027250",
+                            "promotion_type": "campaign"
+                        }
+                    },
+                    {
+                        "id": "894",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-31T03:20:43Z",
+                        "amount": 12124,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-12-31T03:00:00Z",
+                            "end_time": "2023-01-01T02:59:59Z"
+                        },
+                        "regular_amount": 19078.8,
+                        "metadata": {
+                            "promotion_type": "deal_of_the_day",
+                            "discount_meli_amount": 375,
+                            "campaign_discount_percentage": 36.45,
+                            "campaign_end_date": "2023-01-01T02:59:59Z",
+                            "order_item_price": 12499,
+                            "funding_mode": "coupon",
+                            "campaign_id": "P-MLA9609006",
+                            "promotion_id": "OFFER-MLA918281163-661952232"
+                        }
+                    },
+                    {
+                        "id": "895",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-31T03:20:43Z",
+                        "amount": 12667,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_mshops"
+                            ],
+                            "start_time": "2022-12-01T03:00:00Z",
+                            "end_time": "2023-01-01T02:59:59Z"
+                        },
+                        "regular_amount": 19078.8,
+                        "metadata": {
+                            "promotion_id": "TRM-145018220-202211241035373537:MLA918281163",
+                            "promotion_type": "custom"
+                        }
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "318",
+                        "type": "min_standard",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "amount": 12999,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-07-02T04:14:00Z"
+                    },
+                    {
+                        "id": "319",
+                        "type": "was",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-07-02T04:14:00Z",
+                            "end_time": "2022-07-09T04:14:00Z"
+                        },
+                        "amount": 12239.2,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-07-02T04:14:00Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "variations_data": {
+                "83104703221": {
+                    "thumbnail": "http://http2.mlstatic.com/D_966476-MLA45737273043_042021-O.jpg",
+                    "ratio": "2.02",
+                    "name": "Blanco",
+                    "pictures_qty": 9,
+                    "inventory_id": "QRLL67409"
+                }
+            },
+            "installments": {
+                "quantity": 6,
+                "amount": 2997.66,
+                "rate": 48.35,
+                "currency_id": "ARS"
+            },
+            "winner_item_id": null,
+            "discounts": null,
+            "promotions": null,
+            "inventory_id": null
+        },
+        {
+            "id": "MLA1183225012",
+            "title": "Almohada Cannon Vellón Tradicional 70cm X 40cm",
+            "condition": "new",
+            "thumbnail_id": "630752-MLA40218801534_122019",
+            "catalog_product_id": "MLA15251451",
+            "listing_type_id": "gold_special",
+            "permalink": "https://www.mercadolibre.com.ar/almohada-cannon-vellon-tradicional-70cm-x-40cm/p/MLA15251451",
+            "buying_mode": "buy_it_now",
+            "site_id": "MLA",
+            "category_id": "MLA7969",
+            "domain_id": "MLA-PILLOWS",
+            "thumbnail": "http://http2.mlstatic.com/D_630752-MLA40218801534_122019-I.jpg",
+            "currency_id": "ARS",
+            "order_backend": 2,
+            "price": 1499,
+            "original_price": 1666,
+            "sale_price": null,
+            "sold_quantity": 500,
+            "available_quantity": 500,
+            "official_store_id": null,
+            "use_thumbnail_id": true,
+            "accepts_mercadopago": true,
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "brand_verified",
+                "immediate_payment",
+                "cart_eligible",
+                "best_seller_candidate",
+                "shipping_guaranteed"
+            ],
+            "shipping": {
+                "logistic_type": "fulfillment",
+                "mode": "me2",
+                "store_pick_up": false,
+                "free_shipping": false,
+                "tags": [
+                    "fulfillment",
+                    "self_service_in"
+                ],
+                "promise": null
+            },
+            "stop_time": "2042-09-28T04:00:00.000Z",
+            "seller": {
+                "id": 54898332,
+                "nickname": "MUEBLESLANUS",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "registration_date": "2008-09-21T19:09:49.000-04:00",
+                "tags": [
+                    "normal",
+                    "credits_priority_4",
+                    "medium_seller",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "car_dealer_logo": "",
+                "permalink": "http://perfil.mercadolibre.com.ar/MUEBLESLANUS",
+                "seller_reputation": {
+                    "level_id": "5_green",
+                    "power_seller_status": "platinum",
+                    "transactions": {
+                        "canceled": 1290,
+                        "completed": 40722,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.01,
+                            "neutral": 0.03,
+                            "positive": 0.96
+                        },
+                        "total": 42012
+                    },
+                    "metrics": {
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 6278
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0082,
+                            "value": 53
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0174,
+                            "value": 29
+                        },
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 1
+                        }
+                    }
+                }
+            },
+            "seller_address": {
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "id": null,
+                "latitude": null,
+                "longitude": null,
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": null,
+                    "name": "lanus oeste"
+                }
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": null,
+                "city_name": "lanus oeste"
+            },
+            "attributes": [
+                {
+                    "id": "UNITS_PER_PACKAGE",
+                    "name": "Unidades por envase",
+                    "value_id": null,
+                    "value_name": "1",
+                    "attribute_group_id": "",
+                    "attribute_group_name": "",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1",
+                            "struct": null,
+                            "source": 2187367636293270
+                        }
+                    ],
+                    "source": 2187367636293270,
+                    "value_type": "integer"
+                },
+                {
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "24000",
+                    "value_name": "Cannon",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "24000",
+                            "name": "Cannon",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "string"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 2187367636293270
+                        }
+                    ],
+                    "source": 2187367636293270,
+                    "value_type": "list"
+                },
+                {
+                    "id": "LENGTH",
+                    "name": "Largo",
+                    "value_id": "2095030",
+                    "value_name": "70 cm",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": {
+                        "number": 70,
+                        "unit": "cm"
+                    },
+                    "values": [
+                        {
+                            "id": "2095030",
+                            "name": "70 cm",
+                            "struct": {
+                                "unit": "cm",
+                                "number": 70
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "number_unit"
+                },
+                {
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": "6073416",
+                    "value_name": "Vellón",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "6073416",
+                            "name": "Vellón",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "string"
+                },
+                {
+                    "id": "PACKAGE_LENGTH",
+                    "name": "Largo del paquete",
+                    "value_id": null,
+                    "value_name": "36 cm",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": {
+                        "number": 36,
+                        "unit": "cm"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "36 cm",
+                            "struct": {
+                                "number": 36,
+                                "unit": "cm"
+                            },
+                            "source": 4333789534002961
+                        }
+                    ],
+                    "source": 4333789534002961,
+                    "value_type": "number_unit"
+                },
+                {
+                    "id": "PACKAGE_WEIGHT",
+                    "name": "Peso del paquete",
+                    "value_id": null,
+                    "value_name": "590 g",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": {
+                        "number": 590,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "590 g",
+                            "struct": {
+                                "number": 590,
+                                "unit": "g"
+                            },
+                            "source": 4333789534002961
+                        }
+                    ],
+                    "source": 4333789534002961,
+                    "value_type": "number_unit"
+                },
+                {
+                    "id": "SALE_FORMAT",
+                    "name": "Formato de venta",
+                    "value_id": "1359391",
+                    "value_name": "Unidad",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "1359391",
+                            "name": "Unidad",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "list"
+                },
+                {
+                    "id": "UNITS_PER_PACK",
+                    "name": "Unidades por pack",
+                    "value_id": "2726554",
+                    "value_name": "1",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2726554",
+                            "name": "1",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "number"
+                }
+            ],
+            "prices": {
+                "id": "MLA1183225012",
+                "prices": [
+                    {
+                        "id": "35",
+                        "type": "standard",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-01T19:41:56Z",
+                        "amount": 1666,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "regular_amount": null,
+                        "metadata": {}
+                    },
+                    {
+                        "id": "45",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-26T08:38:00Z",
+                        "amount": 1499,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-27T02:30:00Z",
+                            "end_time": "2023-01-01T02:59:00Z"
+                        },
+                        "regular_amount": 1666,
+                        "metadata": {
+                            "campaign_id": "MLA11620",
+                            "promotion_id": "MLA11620",
+                            "promotion_type": "campaign"
+                        }
+                    },
+                    {
+                        "id": "46",
+                        "type": "promotion",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-26T08:38:00Z",
+                        "amount": 1499,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2019-04-02T02:30:00Z",
+                            "end_time": "2023-01-01T02:59:00Z"
+                        },
+                        "regular_amount": 1666,
+                        "metadata": {
+                            "campaign_id": "MLA1909",
+                            "promotion_id": "MLA1909",
+                            "promotion_type": "campaign"
+                        }
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "3",
+                        "type": "min_standard",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "amount": 1339,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-10-13T17:16:38Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "installments": {
+                "quantity": 6,
+                "amount": 370.63,
+                "rate": 48.35,
+                "currency_id": "ARS"
+            },
+            "winner_item_id": null,
+            "catalog_listing": true,
+            "discounts": null,
+            "promotions": null,
+            "inventory_id": "JJOY18718"
+        },
+        {
+            "id": "MLA914063238",
+            "title": "10mts Guirnalda De Luces Para Exterior Vintage C/ Focos",
+            "condition": "new",
+            "thumbnail_id": "613346-MLA46911429320_072021",
+            "catalog_product_id": null,
+            "listing_type_id": "gold_special",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-914063238-10mts-guirnalda-de-luces-para-exterior-vintage-c-focos-_JM",
+            "buying_mode": "buy_it_now",
+            "site_id": "MLA",
+            "category_id": "MLA378164",
+            "domain_id": "MLA-HOME_DECOR",
+            "thumbnail": "http://http2.mlstatic.com/D_613346-MLA46911429320_072021-I.jpg",
+            "currency_id": "ARS",
+            "order_backend": 3,
+            "price": 5999,
+            "original_price": null,
+            "sale_price": null,
+            "sold_quantity": 500,
+            "available_quantity": 500,
+            "official_store_id": null,
+            "use_thumbnail_id": true,
+            "accepts_mercadopago": true,
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "best_seller_candidate"
+            ],
+            "shipping": {
+                "logistic_type": "cross_docking",
+                "mode": "me2",
+                "store_pick_up": false,
+                "free_shipping": true,
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "promise": null
+            },
+            "stop_time": "2041-06-25T15:07:41.000Z",
+            "seller": {
+                "id": 541531956,
+                "nickname": "GUIRNALDAS DECO",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "registration_date": "2020-04-02T12:19:06.000-04:00",
+                "tags": [
+                    "normal",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "car_dealer_logo": "",
+                "permalink": "http://perfil.mercadolibre.com.ar/GUIRNALDAS+DECO",
+                "seller_reputation": {
+                    "level_id": "5_green",
+                    "power_seller_status": "platinum",
+                    "transactions": {
+                        "canceled": 477,
+                        "completed": 17261,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.03,
+                            "neutral": 0,
+                            "positive": 0.97
+                        },
+                        "total": 17738
+                    },
+                    "metrics": {
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 6116
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0012,
+                            "value": 8
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0118,
+                            "value": 72
+                        },
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0015,
+                            "value": 10
+                        }
+                    }
+                }
+            },
+            "seller_address": {
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "id": null,
+                "latitude": null,
+                "longitude": null,
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-B",
+                    "name": "Buenos Aires"
+                },
+                "city": {
+                    "id": "TUxBQ01PUmViMTE3",
+                    "name": "Moreno"
+                }
+            },
+            "address": {
+                "state_id": "AR-B",
+                "state_name": "Buenos Aires",
+                "city_id": "TUxBQ01PUmViMTE3",
+                "city_name": "Moreno"
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": null,
+                    "value_name": "GUIRNALDAS DECO",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "GUIRNALDAS DECO",
+                            "struct": null,
+                            "source": 3376461333454861
+                        }
+                    ],
+                    "source": 3376461333454861,
+                    "value_type": "string"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "source": 3045741222775799,
+                    "value_type": "list"
+                }
+            ],
+            "prices": {
+                "id": "MLA914063238",
+                "prices": [
+                    {
+                        "id": "182",
+                        "type": "standard",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-12-16T22:21:01Z",
+                        "amount": 5999,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "regular_amount": null,
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "155",
+                        "type": "min_standard",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "amount": 2199,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-28T04:12:58Z"
+                    },
+                    {
+                        "id": "156",
+                        "type": "was",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-28T04:12:58Z",
+                            "end_time": "2022-07-05T04:12:58Z"
+                        },
+                        "amount": 2001.09,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-28T04:12:58Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "installments": {
+                "quantity": 6,
+                "amount": 1483.25,
+                "rate": 48.35,
+                "currency_id": "ARS"
+            },
+            "winner_item_id": null,
+            "discounts": null,
+            "promotions": null,
+            "inventory_id": null
+        },
+        {
+            "id": "MLA635314348",
+            "title": "Juego De Sabanas 2 Plazas Y Media Lisa Hotelera Oferta",
+            "condition": "new",
+            "thumbnail_id": "847381-MLA43077926470_082020",
+            "catalog_product_id": null,
+            "listing_type_id": "gold_special",
+            "permalink": "https://articulo.mercadolibre.com.ar/MLA-635314348-juego-de-sabanas-2-plazas-y-media-lisa-hotelera-oferta-_JM",
+            "buying_mode": "buy_it_now",
+            "site_id": "MLA",
+            "category_id": "MLA30059",
+            "domain_id": "MLA-BED_SHEETS",
+            "thumbnail": "http://http2.mlstatic.com/D_847381-MLA43077926470_082020-I.jpg",
+            "currency_id": "ARS",
+            "order_backend": 4,
+            "price": 2990,
+            "original_price": null,
+            "sale_price": null,
+            "sold_quantity": 500,
+            "available_quantity": 500,
+            "official_store_id": null,
+            "use_thumbnail_id": true,
+            "accepts_mercadopago": true,
+            "tags": [
+                "brand_verified",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "best_seller_candidate",
+                "shipping_guaranteed"
+            ],
+            "variation_filters": [
+                "COLOR",
+                "FABRIC_DESIGN"
+            ],
+            "shipping": {
+                "logistic_type": "cross_docking",
+                "mode": "me2",
+                "store_pick_up": false,
+                "free_shipping": false,
+                "tags": [
+                    "self_service_in"
+                ],
+                "promise": null
+            },
+            "stop_time": "2038-10-06T21:18:40.000Z",
+            "seller": {
+                "id": 211287633,
+                "nickname": "BLANCO JAI",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "registration_date": "2016-04-14T16:20:00.000-04:00",
+                "tags": [
+                    "normal",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "car_dealer_logo": "",
+                "permalink": "http://perfil.mercadolibre.com.ar/BLANCO+JAI",
+                "seller_reputation": {
+                    "level_id": "5_green",
+                    "power_seller_status": "platinum",
+                    "transactions": {
+                        "canceled": 2443,
+                        "completed": 45321,
+                        "period": "historic",
+                        "ratings": {
+                            "negative": 0.03,
+                            "neutral": 0.03,
+                            "positive": 0.94
+                        },
+                        "total": 47764
+                    },
+                    "metrics": {
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 8516
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0052,
+                            "value": 47
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0147,
+                            "value": 125
+                        },
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 1
+                        }
+                    }
+                }
+            },
+            "seller_address": {
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "id": null,
+                "latitude": null,
+                "longitude": null,
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": "TUxBQkJBTDMxMDZa",
+                    "name": "Balvanera"
+                }
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": "TUxBQkJBTDMxMDZa",
+                "city_name": "Balvanera"
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": null,
+                    "value_name": "BLANCO JAI",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "BLANCO JAI",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_type": "string"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "list"
+                },
+                {
+                    "id": "LINE",
+                    "name": "Línea",
+                    "value_id": null,
+                    "value_name": "Lisa",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "Lisa",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_type": "string"
+                },
+                {
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_name": "BLANCO JAI",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "BLANCO JAI",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_type": "string"
+                },
+                {
+                    "id": "SALE_FORMAT",
+                    "name": "Formato de venta",
+                    "value_id": "1359391",
+                    "value_name": "Unidad",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "1359391",
+                            "name": "Unidad",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_type": "string"
+                },
+                {
+                    "id": "UNITS_PER_PACKAGE",
+                    "name": "Unidades por envase",
+                    "value_id": null,
+                    "value_name": "4",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "4",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_type": "number"
+                }
+            ],
+            "prices": {
+                "id": "MLA635314348",
+                "prices": [
+                    {
+                        "id": "57",
+                        "type": "standard",
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "last_updated": "2022-07-20T18:23:19Z",
+                        "amount": 2990,
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "regular_amount": null,
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "ARS"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "53",
+                        "type": "min_standard",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null
+                        },
+                        "amount": 1990,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-07-04T04:12:00Z"
+                    },
+                    {
+                        "id": "54",
+                        "type": "was",
+                        "conditions": {
+                            "eligible": true,
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-07-04T04:12:00Z",
+                            "end_time": "2022-07-11T04:12:00Z"
+                        },
+                        "amount": 1890.5,
+                        "currency_id": "ARS",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-07-04T04:12:00Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "variations_data": {
+                "173820475780": {
+                    "thumbnail": "http://http2.mlstatic.com/D_653539-MLA43077919690_082020-O.jpg",
+                    "ratio": "1.22",
+                    "name": "Azul marino",
+                    "pictures_qty": 2
+                },
+                "173820475781": {
+                    "thumbnail": "http://http2.mlstatic.com/D_748719-MLA42230244080_062020-O.jpg",
+                    "ratio": "1.02",
+                    "name": "Beige",
+                    "pictures_qty": 1
+                },
+                "173820475775": {
+                    "thumbnail": "http://http2.mlstatic.com/D_847381-MLA43077926470_082020-O.jpg",
+                    "ratio": "1.28",
+                    "name": "Negro",
+                    "pictures_qty": 2
+                },
+                "174537143080": {
+                    "thumbnail": "http://http2.mlstatic.com/D_699084-MLA50042246578_052022-O.jpg",
+                    "ratio": "1.00",
+                    "name": "Gris oscuro",
+                    "pictures_qty": 1
+                },
+                "173820475783": {
+                    "thumbnail": "http://http2.mlstatic.com/D_890892-MLA42213198118_062020-O.jpg",
+                    "ratio": "1.00",
+                    "name": "Bordó",
+                    "pictures_qty": 2
+                },
+                "57756647499": {
+                    "thumbnail": "http://http2.mlstatic.com/D_884649-MLA42538068768_072020-O.jpg",
+                    "ratio": "0.84",
+                    "name": "AZUL FRANCIA",
+                    "pictures_qty": 2
+                }
+            },
+            "installments": {
+                "quantity": 6,
+                "amount": 739.28,
+                "rate": 48.35,
+                "currency_id": "ARS"
+            },
+            "winner_item_id": null,
+            "discounts": null,
+            "promotions": null,
+            "inventory_id": null
+        }
+    ]
+}

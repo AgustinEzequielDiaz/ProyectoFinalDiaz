@@ -1,0 +1,67 @@
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+/* INICIO INDEX */
+/* estilos section caracteristicas */
+
+.imagenCarrousel{
+    height: 750px;
+}
+
+.row:has(input:required) label:after {
+    content: " *";
+    color: red;
+}
+
+/* queries section caracteristicas */
+@media screen and (max-width: 1300px){
+    .imagenCarrousel{
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 895px){
+    .imagenCarrousel{
+        height: 550px;
+    }
+}
+
+@media screen and (max-width: $pantalla-mediana){
+    .imagenCarrousel{
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .imagenCarrousel{
+        height: 200px;
+    }
+}
+
+/* estilos section banner */
+.padre-banners{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    text-align: center;
+    gap: 3rem;
+}
+
+.banners-caracteristicas{
+    @include flex-column-align-center;
+    gap: .2rem;
+}
+
+/* queries section banner */
+
+@media screen and (max-width: 992px){
+    .padre-banners{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 767px){
+    .padre-banners{
+        @include flex-column-align-center;
+    }
+}
+/* FIN INDEX */

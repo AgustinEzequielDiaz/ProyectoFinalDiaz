@@ -1,0 +1,43 @@
+/* ------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+/* INICIO FORMULARIO */
+/* estilos formularios */
+
+#padre-formulario{
+    @include flex-column-center-center;
+    padding-bottom: 2rem;
+
+    h1{
+        margin-bottom: 1.5rem;
+    }
+
+    & p{
+        font-size: 12px;
+        margin-bottom: .2rem;
+        font-weight: 500;
+    }
+}
+
+.formularioContacto{
+    text-align: start;
+    width: 50%;
+    margin-top: 2rem;
+}
+
+.btnPrueba{
+    border-color: transparent;
+    width: 10rem;
+    height: 10rem;
+    border-color: none;
+    border-radius: 60px;
+    background: #ffffff;
+    box-shadow:  25px 25px 50px #cccccc,
+                -25px -25px 50px #ffffff;
+}
+
+.row:has(input:required) label:after {
+    content: " *";
+    color: red;
+}
+
+/* FIN FORMULARIO */
