@@ -18,8 +18,8 @@ const spinner = `<div class="d-flex justify-content-center m-auto">
                 </div>`
 
 const callML = () => {
-    return fetch('https://api.mercadolibre.com/sites/MLA/search?category=MLA1055');
-    /* return fetch('https://api.mercadolibre.com/sites/MLA/search?q=Decoracion'); */
+    /* return fetch('https://api.mercadolibre.com/sites/MLA/search?category=MLA1055'); */
+    return fetch('https://api.mercadolibre.com/sites/MLA/search?q=Decoracion');
 }
 
 const fetchML = (item) => fetch('https://api.mercadopago.com/checkout/preferences', {
